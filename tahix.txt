@@ -1,0 +1,15 @@
+<span id="a">yahya@tahix</span>:<span id="b">~</span><span id="c">$</span> cd /root/<!-- kjsdfhkjdhsfkjdshfkj -->About_Ettahi_Yahya
+<span id="a">yahya@tahix</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->tahixLife.txt<br/><br/>
+Bonjour,<!-- "<span id="k">Build fast, Code big</span>".  sjkfhskjf -->
+
+Je suis Ettahi Yahya mon surnom est "<span id="k">Tahix Komoro</span>". 
+<p>Je poursuis actuellement ma formation d'ingénieur en informatique à l'Ecole Mohamedia d'Ingénieurs.</p>
+<p>J'adore coder, résoudre des problèmes mathématiques intéressants et jouer au football.</p> 
+<p> J'ai travaillé dans des domaines comme le réseau internet, Linux, le développement Web et la sécurité informatique jusqu'à présent, et je travaille sur d'autres nouveautés. Vous pouvez en savoir plus sur moi sur mon <a href="https://yahyatahix.github.io/"> portfolio</a>.</p>
+<p>Une chose que vous remarquerez peut-être à mon sujet est que je suis toujours en train de coder ou de résoudre des problèmes. J'aime développer des applications Web et aussi résoudre des problèmes de codage concurrentiels. <br><br><br>Voulez-vous voir certains de mes projets terminés?<a href="https://github.com/yahyatahix?tab=repositories"> Here you go</a>.</p>
+<p> Vous pouvez visiter mes autres profils, ici: <br> <a href="https://www.linkedin.com/in/yahyatahix/">LinkedIn</a> <br> <a href="https://github.com/yahyatahix">GitHub</a> <br> <a href="https://tryhackme.com/p/komoro">TryHackMe</a> </p>
+
+Si vous souhaitez me contacter<!-- slightdelayhere-->, n'hésitez pas à m'envoyer un email à <a href="mailto: yahyaettahi@gmail.com">yahyaettahi@gmail.com</a>.
+
+<p>Bonne journée!</p>
+<span id="a">yahya@tahix</span>:<span id="b">~</span><span id="c">$</span> exit
